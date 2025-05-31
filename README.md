@@ -1,1 +1,2 @@
 # superstore-analytics-Birappan-Thapa
+This project analyzes Superstore sales data using Python in Google Colab and Excel. It covers key business metrics such as sales by region, profit margin by category, and top products. By generating visualizations and calculating KPIs, we gain insights into sales performance and profitability. The project also compares the strengths and challenges of using Python vs. Excel for business analytics tasks.
